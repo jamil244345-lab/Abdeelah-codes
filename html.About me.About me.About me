@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<Html lang="en"
+
+<head>
+    <meta charset="UTF-8"
+    <title> About me-Isiraojie Abdul-basit</title>
+</head>
+
+
+<body>
+    <header>
+        <h1>welcome to my personal Webpage</h1>
+        <p>Meet me-Isiraojie Abdulbasit</p>
+    </header>
+ 
+
+
+    <navigation>
+        <nav>
+            <a href="#About">About me</a>
+            <a href="#skills">skills</a>
+            <a href="#media">Image & video</a>
+            <a href="contact">contact</a>
+        </nav>
+
+
+<main>
+    <section> id="About">
+        <h2>ABOUT ME</h2>
+        <p> my name is <strong> <Abdul-basit Isiraojie</strong>,I'm passionate in learning new things about my religion and 
+            tech,such as web development ,Arabic and islamic knowledge and nasheeds(islamic poem)
+            i try my best not to get involve with haram earning and make sure i earn in Halaal ,bcos it's important to 
+            please our lord (ALLAH) even if we happen to displease ourselves in the process.
+            cos in reality,if you u really check well ,when you please ALLAH you later find out that it's for your own goood.
+        </p>
+    </section>
+</main>
+
+
+
+<!...skills section...>
+     <section id="skills">
+     <h2> my skills</h2>
+       
+     <h3> top skills </h3>
+     <ul>
+        <li>web development</li>
+        <li>Arabic speaking</li>
+     </ul>
+
+<h4> skill table</h4>
+<table>
+    <tr>
+        <th>skill</th>
+        <th>experience</th>
+
+    </tr>
+
+    <tr>
+        <td>Html</td>
+        <td>beginner</td>
+    </tr>
+    <tr>
+        <td>Arabic grammer</td>
+        <td>intermediate</td>
+    </tr> 
+</table>
+     </section>
+     
+
+     
