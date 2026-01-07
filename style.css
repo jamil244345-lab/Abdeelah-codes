@@ -1,0 +1,14 @@
+body {background-color: rgb(249, 250, 248);
+}
+tr:nth-child(even) td {
+    background-color: lightsteelblue;
+}
+orders-table {
+    width: 80%;
+    margin: 20px auto;
+}
+orders-table th{
+    background-color: black
+    font-weight: bold;
+    text-transform:
+}
